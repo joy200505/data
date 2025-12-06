@@ -1,0 +1,34 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Large model files (uncomment if needed)
+# *.h5
+# *.pth
+# *.pkl
